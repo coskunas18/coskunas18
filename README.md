@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Coskun Demirel</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Laravel 9, VueJs**
+- 🌱 I’m currently learning **Laravel 10, React Js**
 
 - 📫 How to reach me **coskun.4901@gmail.com**
 
